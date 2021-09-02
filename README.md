@@ -14,7 +14,7 @@
 <span><img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" width="120px"></span>&nbsp;
 <span><img src="https://miro.medium.com/max/800/1*mUISLg4ghf6QYT_f1-cnlg.png" width="140px"></span>&nbsp;
 <span><img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="50px"></span>&nbsp;
-<span><img src="https://redux.js.org/img/redux-logo-landscape.png" width="100px"></span>&nbsp;
+<span><img src="https://redux.js.org/img/redux-logo-landscape.png" width="85px"></span>&nbsp;
 
 <h2>Currently Learning</h2>
 <span><img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="50px"></span>&nbsp;
