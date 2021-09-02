@@ -8,7 +8,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="40px"></span>&nbsp;
 <span><img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png" width="40px"></span>&nbsp;
-<span><img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" width="40px"></span>&nbsp;
+<span><img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" width="50px"></span>&nbsp;
 <span><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="40px"></span>&nbsp;
 <span><img src="https://cdn.freebiesupply.com/logos/large/2x/python-3-logo-png-transparent.png" width="120px"></span>&nbsp;
 <span><img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" width="120px"></span>&nbsp;
