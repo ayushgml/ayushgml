@@ -17,7 +17,7 @@
 <span><img src="https://redux.js.org/img/redux-logo-landscape.png" width="100px"></span>&nbsp;
 
 <h2>Currently Learning</h2>
-<span><img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="80px"></span>&nbsp;
+<span><img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="60px"></span>&nbsp;
 <span><img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" width="40px"></span>&nbsp;
 <span><img src="https://images.tute.io/tute/topic/express-js.png" width="40px"></span>&nbsp;
 <span><img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png" width="40px"></span>&nbsp;
