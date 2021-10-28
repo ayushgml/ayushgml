@@ -17,6 +17,5 @@
 <span><img src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo.gif" width="40px"></span>&nbsp;
 <span><img src="https://images.tute.io/tute/topic/express-js.png" width="40px"></span>&nbsp;
 <span><img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png" width="190px"></span>&nbsp;
-<span><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50px"></span>&nbsp;
 <span><img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="50px"></span>&nbsp;
 <span><img src="https://redux.js.org/img/redux-logo-landscape.png" width="85px"></span>&nbsp;
