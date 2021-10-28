@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/72748253/131888233-b154dd6e-155b-4e58-a2b1-5c2744ba2f88.png">
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushgml&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ayushgml&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br>
 <h2>Languages and Tools i can use:</h2>
 <br>
