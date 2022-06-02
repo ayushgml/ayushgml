@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/72748253/131888233-b154dd6e-155b-4e58-a2b1-5c2744ba2f88.png">
 <br>
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<div align="center">
 <h3 align="center">Currently on a steep learning curve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgml&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgml" /> </p>
@@ -41,4 +41,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgml&show_icons=true&locale=en&layout=compact" alt="ayushgml" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgml&show_icons=true&locale=en" alt="ayushgml" /></p>
-
+</div>
