@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ayushgml@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1uwo7POeEdjZbxIZIZ3njpCbS6goQNFOR/view?usp=sharing](https://drive.google.com/file/d/1uwo7POeEdjZbxIZIZ3njpCbS6goQNFOR/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1i73W-dP_Ww3Av-4ScEIc903Yv4l45Ew9/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
