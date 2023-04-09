@@ -9,17 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/itsayush__" target="blank"><img src="https://img.shields.io/twitter/follow/itsayush__?logo=twitter&style=for-the-badge" alt="itsayush__" /></a> </p>
 
-- 🔭 I’m currently working on **Momo Token**
+- 🌱 I’m currently learning **Go**
 
-- 🌱 I’m currently learning **Ether.js, Web3.js, Truffle, Ganache**
-
-- 👯 I’m looking to collaborate on **ML, DL, NLP**
-
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help with **Devops and DevSecOps**
 
 - 📫 How to reach me **ayushgml@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1i73W-dP_Ww3Av-4ScEIc903Yv4l45Ew9/view?usp=drivesdk]
+- 📄 My Resume [[https://drive.google.com/file/d/1i73W-dP_Ww3Av-4ScEIc903Yv4l45Ew9/view?usp=drivesdk](https://drive.google.com/file/d/1E9IYXC0Z5ma71BVMTT5z1ghLjJFq_00c/view?usp=share_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
