@@ -1,3 +1,15 @@
+### Ayush Gupta
+
+AI Engineer building agents, RAG systems and AI-native products. Portfolio: **[itsayush.dev](https://itsayush.dev)**
+
+**Selected work**
+
+- **[Atlas](https://github.com/ayushgml/atlas)**: visual-citation RAG for due-diligence documents. Retrieves over page images, verifies every claim, highlights the cited region. [Case study](https://itsayush.dev/work/atlas)
+- **[Greenwash](https://github.com/ayushgml/greenwash-oss)**: a GitHub App that catches AI coding agents cheating to make CI green. [Case study](https://itsayush.dev/work/greenwash)
+- **[Geste](https://apps.apple.com/app/id6791253175)**: an iPhone pose guidance camera, built in one week while learning Swift. [Case study](https://itsayush.dev/work/geste)
+
+**Writing:** [Medium](https://itsayush.medium.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsayush__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsayush__" height="30" width="40" /></a>
